@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://matrix.lenicyl.tk/"
+  to = "https://matrix.to/#/#lenicyl:matrix.org"
+  status = 301
+  force = true
