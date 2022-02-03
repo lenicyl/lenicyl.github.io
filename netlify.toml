@@ -3,3 +3,8 @@
   to = "https://matrix.to/#/#lenicyl:matrix.org"
   status = 301
   force = true
+[[redirects]]
+  from = "https://lenicyl.tk/"
+  to = "https://ddg.gg"
+  status = 301
+  force = true
