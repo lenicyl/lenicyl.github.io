@@ -1,10 +1,5 @@
 [[redirects]]
-  from = "https://matrix.lenicyl.tk/"
-  to = "https://matrix.to/#/#lenicyl:matrix.org"
-  status = 301
-  force = true
-[[redirects]]
-  from = "https://lenicyl.tk/"
-  to = "https://ddg.gg"
+  from = "https://matrix.lenicyl.tk"
+  to = "https://matrix.to"
   status = 301
   force = true
